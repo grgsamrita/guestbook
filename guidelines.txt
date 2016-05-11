@@ -1,0 +1,7 @@
+-> databae name: db_guestbook
+-> db_guestbook.sql is inside database folder
+-> you need to create database db_guestbook in phpmyadmin
+-> select the database db_guestbook
+-> you will see the browse, structure, export, import options at top
+-> click on the import option and upload db_guestbook.sql which is 
+inside the folder database
